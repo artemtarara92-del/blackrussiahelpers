@@ -5,3 +5,4 @@
 Откройте `index.html` в браузере — сервер не требуется.
 
 Страницы: index.html, news.html, rules.html, instructions.html, calendar.html, faq.html, contacts.html, login.html.
+Black Russia Helpers
